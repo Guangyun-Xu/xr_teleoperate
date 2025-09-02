@@ -1,3 +1,6 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Guangyun-Xu/xr_teleoperate)
+
+
 <div align="center">
   <h1 align="center">xr_teleoperate</h1>
   <a href="https://www.unitree.com/" target="_blank">
